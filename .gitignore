@@ -3,6 +3,8 @@
 *.zip
 *.pptx
 *.ppt
+*.avi
+*.mp4
 
 wp-config.php
 wp-content/advanced-cache.php
