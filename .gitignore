@@ -1,6 +1,10 @@
 *.log
 *.mp4
 *.zip
+*.rar
+*.pdf
+*.doc
+*.docx
 *.pptx
 *.ppt
 *.avi
